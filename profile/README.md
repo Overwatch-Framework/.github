@@ -24,7 +24,7 @@ To create lightweight, flexible, and open-source systems that empower developers
 
 Overwatch was founded by:
 - [Riggs](https://github.com/riggs9162) – Developer, designer, and owner.
-- [bloodycop](https://github.com/bloodycop6385) – Developer and co-owner of the Overwatch framework.
+- [bloodycop](https://github.com/bloodycop6385) – Developer and owner of the Overwatch framework.
 
 Our team and contributors come from varied backgrounds in Lua scripting, server moderation, and roleplay design.
 
