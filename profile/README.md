@@ -1,6 +1,6 @@
 # Overwatch Framework
 
-Overwatch is a modular Garry's Mod roleplay framework developed by [Riggs](https:/github.com/riggs9162) and [bloodycop](https:/github.com/bloodycop6385) following the closure of Minerva Servers. It is designed to faithfully capture and modernize the gameplay behavior of **Project Synapse** and **impulse**, offering a modern, immersive, and technically sound roleplay experience.
+Overwatch is a modular Garry's Mod roleplay framework developed by [Riggs](https:/github.com/riggs9162) and [bloodycop](https:/github.com/bloodycop6385) following the closure of **Minerva Servers**. It is designed to faithfully capture and modernize the gameplay behavior of **Project Synapse** and **impulse**, offering a modern, immersive, and technically sound roleplay experience.
 
 ## Vision
 
