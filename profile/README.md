@@ -20,10 +20,6 @@ We are also developing advanced schema concepts internally to support a range of
 
 ## Custom Libraries
 
-### `ow.crypto`
-> Pure Lua library for length-prefixed serialization, compression, and encryption.  
-> Ensures clean data transmission with no ambiguous delimiters. Core to all networked communication.
-
 ### `ow.relay`
 > A high-level data syncing layer powered by `ow.crypto`.  
 > Offers per-player, per-entity, and shared scopes for seamless value replication.
