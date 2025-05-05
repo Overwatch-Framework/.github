@@ -1,6 +1,6 @@
 # ow.relay
 
-`ow.relay` is a secure value sync system built around `[SFS](https://github.com/Srlion/sfs)`. It lets you transmit values safely between server and clients across three scopes: global, per-player, and per-entity.
+`ow.relay` is a secure value sync system built around `(SFS)[https://github.com/Srlion/sfs]`. It lets you transmit values safely between server and clients across three scopes: global, per-player, and per-entity.
 
 ---
 
