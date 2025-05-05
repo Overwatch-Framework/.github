@@ -30,8 +30,8 @@ We are also developing advanced schema concepts internally to support a range of
 
 ## Development Team
 
-- **[Riggs](https:/github.com/riggs9162)** – Co-founder, lead UI designer & programmer, core framework developer, backend engineer.  
-- **[bloodycop](https:/github.com/bloodycop6385)** – Co-founder, backend engineer, quality-of-life systems designer, contributor to core systems.
+- **[Riggs](https:/github.com/riggs9162)** – Co-founder, core framework developer, lead UI designer & programmer.  
+- **[bloodycop](https:/github.com/bloodycop6385)** – Co-founder, core framework developer, quality-of-life systems designer.
 
 ## Status
 
