@@ -1,6 +1,6 @@
 # ow.relay
 
-`ow.relay` is a secure value sync system built around `(SFS)[https://github.com/Srlion/sfs]`. It lets you transmit values safely between server and clients across three scopes: global, per-player, and per-entity.
+`ow.relay` is a secure value sync system built around [SFS](https://github.com/Srlion/sfs). It lets you transmit values safely between server and clients across three scopes: global, per-player, and per-entity.
 
 ---
 
@@ -49,7 +49,7 @@ print(someDoor:GetEntity("locked", false)) -- Outputs: true if synced
   - `ow.relay.shared`
   - `ow.relay.user`
   - `ow.relay.entity`
-- Data is serialized, compressed, and encrypted via `[SFS](https://github.com/Srlion/sfs)`.
+- Data is serialized, compressed, and encrypted via [SFS](https://github.com/Srlion/sfs).
 
 ---
 
