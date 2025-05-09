@@ -15,13 +15,13 @@ We are also developing advanced schema concepts internally to support a range of
 
 ## Core Repositories
 
-- **Skeleton Schema** – Provides the structural baseline and shared systems used across all schemas.
+- **[Skeleton Schema](https://github.com/Overwatch-Framework/overwatchskeleton)** – Provides the structural baseline and shared systems used across all schemas.
 - *(Private schemas are in development and integrate seamlessly with the framework.)*
 
 ## Custom Libraries
 
 ### `ow.relay`
-> A high-level data syncing layer powered by `ow.crypto`.  
+> A high-level data syncing layer powered by `SFS`.  
 > Offers per-player, per-entity, and shared scopes for seamless value replication.
 
 ### `ow.sqlite`
