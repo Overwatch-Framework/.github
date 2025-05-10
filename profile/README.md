@@ -1,40 +1,19 @@
-# Overwatch Framework
+# Overwatch Framework (Archived)
 
-Overwatch is a modular Garry's Mod roleplay framework developed by [Riggs](https:/github.com/riggs9162) and [bloodycop](https:/github.com/bloodycop6385) following the closure of **Minerva Servers**. It is designed to faithfully capture and modernize the gameplay behavior of **Project Synapse** and **impulse**, offering a modern, immersive, and technically sound roleplay experience.
+> ⚠️ **This framework has been discontinued and is no longer in active development.**
 
-## Vision
+Overwatch was a modular roleplaying framework for Garry's Mod, built for performance, usability, and extensibility. Development has officially ceased following internal changes, including the departure of a core developer.
 
-Overwatch is more than a framework, it's a foundation for expressive scalable roleplay servers. Our goal is to build a system that offers:
+## What's Next?
 
-- **Clean, modular architecture** – Easy to extend, safe to modify.
-- **Modern UX standards** – A polished, intuitive player experience with a UI inspired by the iconic Half-Life 2 Gamepad interface.
-- **Robust backend systems** – Secure, compressed, and encrypted data pipelines.
-- **Flexible schema development** – Tools and standards for custom server creation.
+The project has been **rebranded** and **moved** to a new organization:
 
-We are also developing advanced schema concepts internally to support a range of gameplay environments, including lore-based and lore-agnostic roleplay—details on these will be revealed in time.
+🔗 **New Home:** [Parallax Framework](https://github.com/Parallax-Framework)
 
-## Core Repositories
-
-- **[Skeleton Schema](https://github.com/Overwatch-Framework/overwatchskeleton)** – Provides the structural baseline and shared systems used across all schemas.
-- *(Private schemas are in development and integrate seamlessly with the framework.)*
-
-## Custom Libraries
-
-### `ow.relay`
-> A high-level data syncing layer powered by `SFS`.  
-> Offers per-player, per-entity, and shared scopes for seamless value replication.
-
-### `ow.sqlite`
-> A flexible SQLite abstraction for dynamic variable and row registration.  
-> Built to support persistent data layers like users, characters, and inventory systems.
-
-## Development Team
-
-- **[Riggs](https:/github.com/riggs9162)** – Co-founder, core framework developer, lead UI designer & programmer.  
-- **[bloodycop](https:/github.com/bloodycop6385)** – Co-founder, core framework developer, quality-of-life systems designer.
+* **Rewritten Systems**: Several components will be rewritten from scratch, while others may be reused.
+* **Restructured Codebase**: The overall structure and organization of the framework are being redesigned.
+* **Same Vision**: Visually and gameplay-wise, the new framework will preserve the original intent and functionality of Overwatch.
 
 ## Status
 
-> 🚧 **In Active Development** — Not yet public. Initial testing is underway.
-
-Stay tuned for more.
+This organization remains available for archival and reference purposes. No further updates or support will be provided here.
